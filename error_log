@@ -1,0 +1,12 @@
+[18-Aug-2016 02:24:50 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/virusserver/public_html/messybessy/application/views/pages/products.php on line 19
+[23-Aug-2016 14:12:46 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /home/virusserver/public_html/messybessy/application/views/administrator/edit_page.php on line 53
+[23-Aug-2016 14:12:52 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /home/virusserver/public_html/messybessy/application/views/administrator/edit_page.php on line 53
+[23-Aug-2016 14:13:35 Asia/Manila] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /home/virusserver/public_html/messybessy/application/views/administrator/edit_page.php on line 53
+[23-Aug-2016 06:34:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/messybessy/application/views/pages/contact.php on line 165
+[23-Aug-2016 06:34:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/messybessy/application/views/pages/contact.php on line 165
+[24-Aug-2016 08:23:51 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
+[24-Aug-2016 08:23:55 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
+[24-Aug-2016 08:23:57 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
+[24-Aug-2016 08:24:01 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
+[24-Aug-2016 08:24:07 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
+[24-Aug-2016 08:24:14 UTC] PHP Fatal error:  Cannot redeclare Front::our_heroes() in /home/virusserver/public_html/messybessy/application/controllers/front.php on line 178
